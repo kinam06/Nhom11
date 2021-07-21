@@ -1,0 +1,49 @@
+C:\Users\Owolf_It\Documents\Visual Studio 2010\Projects\ID3\ID3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owolf_It\Documents\Visual Studio 2010\Projects\ID3\ID3\obj\x86\Debug\ID3.ID3.resources
+C:\Users\Owolf_It\Documents\Visual Studio 2010\Projects\ID3\ID3\obj\x86\Debug\ID3.Properties.Resources.resources
+C:\Users\Owolf_It\Documents\Visual Studio 2010\Projects\ID3\ID3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Owolf_It\Documents\Visual Studio 2010\Projects\ID3\ID3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Owolf_It\documents\visual studio 2010\Projects\ID3\ID3\bin\Debug\ID3.exe
+C:\Users\Owolf_It\documents\visual studio 2010\Projects\ID3\ID3\bin\Debug\ID3.pdb
+C:\Users\Owolf_It\documents\visual studio 2010\Projects\ID3\ID3\obj\x86\Debug\ID3.exe
+C:\Users\Owolf_It\documents\visual studio 2010\Projects\ID3\ID3\obj\x86\Debug\ID3.pdb
+C:\Users\THANH DON\Desktop\Code\ID3\ID3\obj\x86\Debug\ID3.exe
+C:\Users\THANH DON\Desktop\Code\ID3\ID3\obj\x86\Debug\ID3.pdb
+C:\Users\THANH DON\Desktop\Code\ID3\ID3\bin\Debug\ID3.exe
+C:\Users\THANH DON\Desktop\Code\ID3\ID3\bin\Debug\ID3.pdb
+C:\Users\THANH DON\Desktop\Code\ID3\ID3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\THANH DON\Desktop\Code\ID3\ID3\obj\x86\Debug\ID3.Properties.Resources.resources
+C:\Users\THANH DON\Desktop\Code\ID3\ID3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\THANH DON\Desktop\Code\ID3\ID3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\THANH DON\Desktop\Code\ID3\ID3\obj\x86\Debug\ID3.Main.resources
+C:\Users\THANH DON\Desktop\Code\ID3\ID3\obj\x86\Debug\ID3.About.resources
+C:\Users\THANH DON\Desktop\Code\Máy học\ID3\ID3\obj\x86\Debug\ID3.exe
+C:\Users\THANH DON\Desktop\Code\Máy học\ID3\ID3\obj\x86\Debug\ID3.pdb
+C:\Users\THANH DON\Desktop\Code\Máy học\ID3\ID3\bin\Debug\ID3.exe
+C:\Users\THANH DON\Desktop\Code\Máy học\ID3\ID3\bin\Debug\ID3.pdb
+C:\Users\THANH DON\Desktop\Code\Máy học\ID3\ID3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\THANH DON\Desktop\Code\Máy học\ID3\ID3\obj\x86\Debug\ID3.About.resources
+C:\Users\THANH DON\Desktop\Code\Máy học\ID3\ID3\obj\x86\Debug\ID3.Main.resources
+C:\Users\THANH DON\Desktop\Code\Máy học\ID3\ID3\obj\x86\Debug\ID3.Properties.Resources.resources
+C:\Users\THANH DON\Desktop\Code\Máy học\ID3\ID3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\THANH DON\Desktop\Code\Máy học\ID3\ID3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\canhn\Downloads\Compressed\ID3\ID3\ID3\bin\Debug\ID3.exe
+C:\Users\canhn\Downloads\Compressed\ID3\ID3\ID3\bin\Debug\ID3.pdb
+C:\Users\canhn\Downloads\Compressed\ID3\ID3\ID3\obj\x86\Debug\ID3.csproj.AssemblyReference.cache
+C:\Users\canhn\Downloads\Compressed\ID3\ID3\ID3\obj\x86\Debug\ID3.About.resources
+C:\Users\canhn\Downloads\Compressed\ID3\ID3\ID3\obj\x86\Debug\ID3.Main.resources
+C:\Users\canhn\Downloads\Compressed\ID3\ID3\ID3\obj\x86\Debug\ID3.Properties.Resources.resources
+C:\Users\canhn\Downloads\Compressed\ID3\ID3\ID3\obj\x86\Debug\ID3.csproj.GenerateResource.cache
+C:\Users\canhn\Downloads\Compressed\ID3\ID3\ID3\obj\x86\Debug\ID3.csproj.CoreCompileInputs.cache
+C:\Users\canhn\Downloads\Compressed\ID3\ID3\ID3\obj\x86\Debug\ID3.exe
+C:\Users\canhn\Downloads\Compressed\ID3\ID3\ID3\obj\x86\Debug\ID3.pdb
+C:\Users\Minh\Downloads\ID3\ID3\bin\Debug\ID3.exe
+C:\Users\Minh\Downloads\ID3\ID3\bin\Debug\ID3.pdb
+C:\Users\Minh\Downloads\ID3\ID3\obj\x86\Debug\ID3.csproj.AssemblyReference.cache
+C:\Users\Minh\Downloads\ID3\ID3\obj\x86\Debug\ID3.About.resources
+C:\Users\Minh\Downloads\ID3\ID3\obj\x86\Debug\ID3.Main.resources
+C:\Users\Minh\Downloads\ID3\ID3\obj\x86\Debug\ID3.Properties.Resources.resources
+C:\Users\Minh\Downloads\ID3\ID3\obj\x86\Debug\ID3.csproj.GenerateResource.cache
+C:\Users\Minh\Downloads\ID3\ID3\obj\x86\Debug\ID3.csproj.CoreCompileInputs.cache
+C:\Users\Minh\Downloads\ID3\ID3\obj\x86\Debug\ID3.exe
+C:\Users\Minh\Downloads\ID3\ID3\obj\x86\Debug\ID3.pdb

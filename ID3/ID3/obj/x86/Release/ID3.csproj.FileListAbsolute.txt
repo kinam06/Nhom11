@@ -1,0 +1,15 @@
+C:\Users\THANH DON\Desktop\Code\ID3\ID3\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\THANH DON\Desktop\Code\ID3\ID3\obj\x86\Release\ID3.Main.resources
+C:\Users\THANH DON\Desktop\Code\ID3\ID3\obj\x86\Release\ID3.Properties.Resources.resources
+C:\Users\THANH DON\Desktop\Code\ID3\ID3\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\THANH DON\Desktop\Code\ID3\ID3\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\THANH DON\Desktop\Code\Máy học\ID3\ID3\bin\Release\ID3.exe
+C:\Users\THANH DON\Desktop\Code\Máy học\ID3\ID3\bin\Release\ID3.pdb
+C:\Users\THANH DON\Desktop\Code\Máy học\ID3\ID3\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\THANH DON\Desktop\Code\Máy học\ID3\ID3\obj\x86\Release\ID3.About.resources
+C:\Users\THANH DON\Desktop\Code\Máy học\ID3\ID3\obj\x86\Release\ID3.Main.resources
+C:\Users\THANH DON\Desktop\Code\Máy học\ID3\ID3\obj\x86\Release\ID3.Properties.Resources.resources
+C:\Users\THANH DON\Desktop\Code\Máy học\ID3\ID3\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\THANH DON\Desktop\Code\Máy học\ID3\ID3\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\THANH DON\Desktop\Code\Máy học\ID3\ID3\obj\x86\Release\ID3.exe
+C:\Users\THANH DON\Desktop\Code\Máy học\ID3\ID3\obj\x86\Release\ID3.pdb
